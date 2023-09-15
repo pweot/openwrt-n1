@@ -200,8 +200,8 @@ CONFIG_TARGET_ROOTFS_PARTSIZE=400
 # CONFIG_TARGET_ROOTFS_SQUASHFS is not set
 CONFIG_TARGET_ROOTFS_TARGZ=y
 CONFIG_PACKAGE_kmod-nf-conntrack-netlink=y
-#CONFIG_PACKAGE_luci-app-amlogic=y
-CONFIG_PACKAGE_luci-app-cpufreq=y
+CONFIG_PACKAGE_luci-app-amlogic=y
+#CONFIG_PACKAGE_luci-app-cpufreq=y
 CONFIG_PACKAGE_luci-app-passwall2=y
 CONFIG_PACKAGE_iptables-mod-socket=y
 CONFIG_PACKAGE_iptables-mod-iprange=y
